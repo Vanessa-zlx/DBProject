@@ -1,0 +1,10 @@
+15	爱荷华州	    Iowa	IA
+18	路易斯安那州	Louisiana	LA
+28	内华达州	    Nevada	NV
+29	新罕布什尔州	New Hampshire	NH
+30	新泽西州	    New Jersey	NJ
+31	新墨西哥州	New Mexico	NM
+32	纽约州	    New York	NY
+44	犹他州	    Utah	UT
+48	西弗吉尼亚州	West Virginia	WV
+50	怀俄明州	    Wyoming	WY
